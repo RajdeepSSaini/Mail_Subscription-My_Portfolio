@@ -1,6 +1,3 @@
-# Mail_Subscription-My_Portfolio
-
-
 # Rajdeep's Portfolio Website - Coming Soon!
 Welcome to the repository for Rajdeep's brand new portfolio website subscription. This repository contains the HTML, CSS, and JavaScript code for the email subscription page that will keep you updated about the website's launch. The website is expected to go live in a month after a few rounds of testing.
 
